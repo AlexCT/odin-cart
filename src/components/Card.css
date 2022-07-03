@@ -1,0 +1,56 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 200px;
+    border: 2px solid darkgray;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px darkgray;
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-size: 32px;
+    color: teal;
+}
+
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+input {
+    border: none;
+    background-color: teal;
+    color: orange;
+    box-shadow: 0px 0px 10px darkgray;
+}
+
+#quantity {
+    border: 1px solid darkgray;
+    background-color: white;
+    color: teal;
+    width: 30px;
+}
+
+#increase, #decrease {
+    width: 15px;
+    font-weight: bolder;
+    padding: none;
+    margin: 5px;
+}
+
+#addtocart {
+    margin-top: 5px;
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    box-shadow: 0px 0px 10px darkgray;
+}
+

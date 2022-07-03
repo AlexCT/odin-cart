@@ -1,0 +1,44 @@
+* {
+    margin:0;
+    padding:0;
+  }
+
+  #cartbar {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    width: 100vw;
+    height: 50px;
+    /*background-color: orange;*/
+  }
+
+  #cartbar h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: teal;
+    margin-right: 25px;
+  }
+
+  #cartbar #items {
+    color: orange;
+  }
+
+#cartbar input {
+    background-color: teal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: orange;
+    width: 100px;
+    height: 30px;
+    border-style: hidden;
+    margin-right: 25px;
+  }
+
+#container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 50px;
+    align-items: center;
+    justify-items: center;
+    margin-top: 50px;
+    
+}
