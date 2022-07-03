@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/odin-cart/static/css/main.77823c8e.css",
+    "main.js": "/odin-cart/static/js/main.70cc0801.js",
+    "static/media/thor.png": "/odin-cart/static/media/thor.f2703539a1f0628ab8f6.png",
+    "static/media/shield.png": "/odin-cart/static/media/shield.5577e380e73536299c43.png",
+    "static/media/helmet.png": "/odin-cart/static/media/helmet.2d1c7047738c2fc131e3.png",
+    "static/media/hammer.png": "/odin-cart/static/media/hammer.6f568f3544f90d5a8e91.png",
+    "index.html": "/odin-cart/index.html",
+    "main.77823c8e.css.map": "/odin-cart/static/css/main.77823c8e.css.map",
+    "main.70cc0801.js.map": "/odin-cart/static/js/main.70cc0801.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77823c8e.css",
+    "static/js/main.70cc0801.js"
+  ]
+}
